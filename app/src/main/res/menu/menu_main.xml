@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@"
+
+</item>
+
+<item
+android:id="@+id/action_menu"
+android:icon
+    </item>
+
+
+<item
+    android:id="@+id/menu/red"
+    android:orderInCategory="1"
+    app:showAction="never"
+    android:title="red"/>
+<item
+    android:id="@+id/menu/blue"
+    android:orderInCategory="1"
+    app:showAction="never"
+    android:title="blue"/>
+<item
+    android:id="@+id/menu/yellow"
+    android:orderInCategory="1"
+    app:showAction="never"
+    android:title="yellow"/>
+<item
+    android:id="@+id/menu/green"
+    android:orderInCategory="1"
+    app:showAction="never"
+    android:title="green"/>
+</menu>
